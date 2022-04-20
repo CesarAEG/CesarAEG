@@ -2,7 +2,7 @@
 <h3 align="center"> He/him 🙂 | Full Stack Developer 💻 | Industrial Robotics Eng. 🤖 | Mexican 🇲🇽 </h3>
   
 <p align="center">
-  <br> IT Trainee at: <br>
+  <br> IT Trainee at: <br><br><br>
  <img src="https://www.tcs.com/content/dam/tcs/images/Newtcslogo/tcs-logo-tata-white-1x-dec2021.png" width="20%"/>
 <p>
 
