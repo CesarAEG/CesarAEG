@@ -3,7 +3,7 @@
   
 <p align="center">
   <br> IT Trainee at: <br><br>
- <img src="https://www.tcs.com/content/dam/tcs/images/Newtcslogo/tcs-logo-tata-white-1x-dec2021.png" width="20%"/>
+ <a src="https://www.tcs.com/"><img src="https://www.tcs.com/content/dam/tcs/images/Newtcslogo/tcs-logo-tata-white-1x-dec2021.png" width="20%"/></a>
 <p>
 
 ```javascript
