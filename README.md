@@ -25,4 +25,4 @@
   
   - I studied Web Programming at Seoul Institute of Technology & Education in South Korea 🇰🇷
   - I studied Industrial Robotics Engineering at IPN 🤖
-  - I'm studying a Java programming bootcamp at Generation México 🤝
+  - I'm studying a Java programming bootcamp at Alura México 🤝
